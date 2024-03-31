@@ -14,4 +14,9 @@ public record TextureURL(Identifier identifier, int width, int height) {
     public static final TextureURL error = new TextureURL(
             new Identifier(MarumaSign.MOD_ID, "textures/misc/error.png"), 160, 96
     );
+
+    // 見沼のテクスチャ
+    public static final TextureURL minuma = new TextureURL(
+            new Identifier(MarumaSign.MOD_ID, "textures/misc/minuma.png"), 720, 1280
+    );
 }

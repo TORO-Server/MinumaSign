@@ -1,6 +1,6 @@
-# MarumaSign
+# MinumaSign
 
-看板に画像を表示する Minecraft の Mod です。
+看板に見沼を表示する Minecraft の Mod です。
 
 解説動画:
 <https://www.youtube.com/watch?v=N-Q-Vtz7m-0>
